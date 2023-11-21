@@ -7,5 +7,5 @@ public class CityWeatherDb {
 
     private static final Map<String, CityDataEntity> dataBase = new HashMap<>();
 
-    //TODO: metody pracy nad bazą danych, dodawanie itp...
+    //: metody pracy nad bazą danych, dodawanie itp...
 }
